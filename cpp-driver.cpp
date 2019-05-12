@@ -1,7 +1,8 @@
-#include <Python.h>
+//#include <Python.h>
+#include <iostream>
 
 int main() {
-    PyObject*
+    system("python3 bracket_test_main");
     
     
     
